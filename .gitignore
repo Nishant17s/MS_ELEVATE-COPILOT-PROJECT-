@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Streamlit
+.streamlit/
+streamlit_report.html
+
+# Logs
+*.log
+logs/
+
+# Cache files
+.cache/
+*.cache
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+inventory_v2.db
+.streamlit/secrets.toml
+sample_data/
+temp/
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log

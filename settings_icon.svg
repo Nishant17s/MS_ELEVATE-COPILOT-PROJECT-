@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="24" height="24">
+  <!-- Gear Icon with white teeth on transparent background -->
+  <g fill="black">
+    <!-- Center circle -->
+    <circle cx="50" cy="50" r="18"/>
+    
+    <!-- Gear teeth -->
+    <!-- Top -->
+    <rect x="46" y="8" width="8" height="14"/>
+    <!-- Top-right -->
+    <rect x="68" y="14" width="14" height="8" transform="rotate(45 75 18)"/>
+    <!-- Right -->
+    <rect x="78" y="46" width="14" height="8"/>
+    <!-- Bottom-right -->
+    <rect x="68" y="78" width="14" height="8" transform="rotate(45 75 82)"/>
+    <!-- Bottom -->
+    <rect x="46" y="78" width="8" height="14"/>
+    <!-- Bottom-left -->
+    <rect x="8" y="68" width="14" height="8" transform="rotate(45 15 72)"/>
+    <!-- Left -->
+    <rect x="8" y="46" width="14" height="8"/>
+    <!-- Top-left -->
+    <rect x="8" y="14" width="14" height="8" transform="rotate(45 15 18)"/>
+  </g>
+  
+  <!-- Inner white circle -->
+  <circle cx="50" cy="50" r="10" fill="white"/>
+</svg>

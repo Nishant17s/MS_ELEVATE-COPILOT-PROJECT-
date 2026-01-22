@@ -1,0 +1,201 @@
+product_name,category,current_stock,reorder_point,unit_cost,selling_price
+Max Laptop 861,Networking,70,41,537,764
+Pro Drive 767,Storage,50,13,636,832
+Smart Monitor 271,Accessories,135,19,886,1112
+Compact Chair 721,Office Supplies,85,36,868,1554
+Wireless Dock 735,Storage,184,10,624,917
+High-Performance Router 644,Office Supplies,138,43,787,1466
+Wireless Router 484,Networking,156,18,536,918
+Ultra Router 218,Electronics,102,26,705,1297
+Compact Mouse 400,Furniture,12,38,804,1205
+High-Performance Monitor 520,Furniture,14,47,360,438
+Smart Headset 114,Furniture,22,25,568,912
+Wireless Monitor 599,Networking,85,31,982,1810
+Max Router 860,Office Supplies,200,40,428,581
+Max Chair 198,Storage,119,30,664,1242
+Smart Chair 857,Storage,130,36,893,1134
+Compact Chair 108,Storage,142,18,722,1291
+Pro Drive 645,Furniture,130,46,999,1360
+Compact Keyboard 491,Accessories,139,22,794,1541
+Ergonomic Laptop 213,Accessories,142,42,79,110
+High-Performance Desk 838,Accessories,57,46,342,650
+High-Performance Keyboard 894,Office Supplies,189,31,327,651
+Wireless Drive 154,Networking,114,15,478,699
+Wireless Dock 513,Furniture,79,15,721,1065
+Wireless Desk 560,Networking,177,22,698,988
+Pro Chair 608,Accessories,60,25,201,263
+Compact Laptop 316,Networking,140,17,899,1700
+Max Dock 217,Furniture,154,16,840,1651
+Pro Headset 121,Networking,134,47,737,897
+Ergonomic Dock 500,Networking,75,20,723,1155
+Ultra Laptop 636,Storage,82,12,67,110
+Wireless Headset 460,Office Supplies,90,33,253,486
+High-Performance Router 346,Accessories,115,31,536,939
+Compact Dock 317,Networking,80,45,459,914
+High-Performance Headset 492,Storage,176,44,511,824
+High-Performance Desk 106,Electronics,195,21,132,180
+Wireless Chair 158,Furniture,189,32,721,901
+Max Chair 181,Office Supplies,117,34,980,1416
+Ultra Router 125,Storage,173,22,110,149
+High-Performance Laptop 623,Accessories,90,32,748,1289
+Ultra Keyboard 126,Office Supplies,157,19,898,1659
+Wireless Drive 208,Electronics,123,29,378,490
+Ergonomic Router 253,Networking,103,10,532,664
+Ergonomic Dock 284,Networking,126,28,293,396
+Pro Keyboard 550,Electronics,78,31,392,689
+Ultra Desk 860,Furniture,41,38,849,1302
+Pro Keyboard 227,Furniture,131,39,249,431
+High-Performance Keyboard 889,Office Supplies,5,10,750,1313
+High-Performance Router 600,Furniture,46,33,64,107
+Ergonomic Keyboard 140,Storage,112,37,322,445
+Pro Desk 507,Office Supplies,175,18,383,713
+Wireless Chair 646,Networking,199,16,728,1007
+Compact Keyboard 545,Storage,113,16,257,472
+Ergonomic Monitor 561,Electronics,85,12,760,1057
+Ergonomic Dock 196,Electronics,123,43,495,921
+Ultra Desk 596,Office Supplies,200,41,408,524
+Compact Dock 844,Electronics,178,40,453,613
+Smart Router 393,Office Supplies,6,35,450,777
+Wireless Desk 239,Electronics,97,25,302,425
+Compact Mouse 136,Storage,184,46,60,111
+High-Performance Desk 162,Electronics,77,46,328,596
+Pro Router 662,Office Supplies,24,26,203,270
+Compact Dock 403,Storage,79,43,128,205
+Ergonomic Chair 676,Office Supplies,50,22,388,467
+Max Keyboard 529,Accessories,19,31,194,342
+Smart Mouse 626,Office Supplies,158,12,690,1045
+High-Performance Chair 472,Networking,71,48,880,1669
+Compact Monitor 533,Accessories,157,39,870,1718
+Ergonomic Keyboard 102,Accessories,136,13,862,1109
+Ergonomic Keyboard 475,Networking,96,10,690,1282
+Compact Dock 349,Networking,37,18,915,1816
+Pro Chair 246,Office Supplies,1,13,757,1118
+High-Performance Router 720,Storage,145,23,221,331
+Pro Chair 773,Networking,19,32,416,554
+Pro Desk 603,Networking,159,22,47,77
+High-Performance Keyboard 449,Office Supplies,108,30,237,446
+Pro Chair 172,Storage,139,13,390,609
+Ultra Router 361,Accessories,183,22,902,1141
+Pro Monitor 112,Furniture,142,28,734,996
+Compact Monitor 145,Networking,63,15,421,572
+Smart Router 860,Storage,119,36,709,1302
+Max Drive 311,Accessories,23,20,117,196
+Compact Drive 760,Networking,115,31,824,993
+Max Headset 647,Storage,183,32,866,1320
+High-Performance Keyboard 870,Networking,52,12,773,1397
+High-Performance Monitor 848,Networking,185,14,701,873
+Smart Desk 723,Storage,63,18,431,745
+Ultra Headset 233,Furniture,51,37,941,1636
+Ultra Desk 215,Storage,149,16,413,608
+Max Laptop 490,Furniture,112,31,437,867
+Ergonomic Keyboard 223,Electronics,34,20,864,1717
+Ultra Monitor 152,Furniture,162,38,700,1399
+Max Headset 456,Office Supplies,76,43,637,1025
+High-Performance Keyboard 840,Electronics,133,41,923,1797
+Compact Drive 507,Furniture,81,27,350,597
+Ergonomic Monitor 304,Accessories,19,35,318,405
+Smart Mouse 280,Networking,9,24,31,49
+Compact Desk 511,Storage,128,21,739,1045
+Wireless Drive 850,Accessories,197,25,223,285
+Wireless Router 782,Accessories,40,33,948,1596
+Compact Monitor 717,Accessories,37,25,578,1117
+Wireless Chair 215,Furniture,11,34,739,914
+Ultra Drive 273,Office Supplies,163,33,520,736
+Smart Dock 336,Storage,163,26,426,679
+Ergonomic Router 215,Accessories,121,40,456,635
+Pro Router 589,Accessories,93,14,996,1517
+Smart Keyboard 483,Furniture,164,37,366,479
+Wireless Laptop 659,Office Supplies,44,35,42,81
+High-Performance Mouse 404,Networking,57,49,744,1407
+Compact Monitor 837,Accessories,187,46,514,769
+High-Performance Dock 114,Accessories,195,43,771,1504
+Wireless Chair 735,Storage,4,49,231,376
+Pro Desk 801,Networking,95,28,997,1352
+High-Performance Keyboard 336,Furniture,36,19,428,846
+Ergonomic Drive 207,Accessories,104,45,237,440
+Ergonomic Drive 835,Networking,130,33,807,1547
+Compact Dock 436,Storage,30,25,354,435
+Compact Dock 852,Furniture,76,26,951,1670
+Max Monitor 726,Storage,92,14,984,1599
+Ergonomic Dock 633,Accessories,87,20,899,1677
+Wireless Router 559,Networking,10,13,451,651
+Pro Laptop 527,Networking,86,23,642,884
+High-Performance Headset 692,Office Supplies,65,10,628,1117
+Smart Laptop 214,Furniture,75,13,248,426
+Max Headset 500,Accessories,30,48,131,189
+Ergonomic Dock 262,Furniture,23,11,538,681
+Ultra Chair 874,Furniture,163,31,238,421
+Max Monitor 620,Electronics,86,39,186,230
+Wireless Monitor 199,Networking,54,16,297,562
+Compact Mouse 668,Accessories,160,30,635,887
+High-Performance Mouse 600,Electronics,47,49,622,888
+Ultra Dock 259,Furniture,52,48,801,1078
+Smart Laptop 465,Storage,167,16,102,203
+Ergonomic Laptop 534,Storage,141,36,432,638
+Ultra Mouse 894,Office Supplies,64,27,312,527
+Wireless Chair 499,Electronics,191,23,284,436
+Wireless Monitor 168,Accessories,81,26,707,1205
+Compact Laptop 614,Accessories,81,40,724,1157
+Wireless Desk 253,Office Supplies,103,35,289,537
+High-Performance Desk 360,Electronics,188,38,216,307
+High-Performance Desk 343,Storage,53,33,44,63
+Max Desk 169,Networking,132,19,868,1574
+Wireless Monitor 536,Storage,42,13,295,480
+High-Performance Router 381,Office Supplies,108,13,744,960
+Smart Headset 476,Accessories,89,32,863,1203
+Compact Desk 298,Accessories,171,36,433,743
+Smart Headset 386,Office Supplies,192,46,303,418
+Smart Mouse 631,Furniture,177,26,97,160
+Ultra Headset 634,Networking,200,40,307,556
+High-Performance Mouse 106,Furniture,143,20,512,814
+Ultra Keyboard 368,Networking,27,30,86,119
+High-Performance Keyboard 880,Electronics,158,17,774,1057
+Wireless Headset 195,Accessories,64,34,811,1139
+Max Chair 181,Networking,28,17,223,354
+Compact Chair 866,Accessories,153,44,983,1346
+Pro Dock 273,Storage,21,27,252,325
+Smart Monitor 102,Office Supplies,151,38,198,273
+Ergonomic Laptop 525,Networking,23,30,218,264
+Wireless Mouse 621,Accessories,163,30,129,185
+Pro Drive 409,Networking,138,17,689,1297
+High-Performance Monitor 801,Furniture,95,44,990,1961
+Wireless Drive 294,Storage,164,32,339,465
+Wireless Chair 720,Furniture,82,27,478,667
+Pro Headset 544,Electronics,71,34,190,309
+Pro Laptop 506,Office Supplies,32,50,157,269
+Smart Headset 226,Storage,146,40,949,1229
+Compact Drive 108,Furniture,119,13,117,206
+Max Desk 789,Office Supplies,156,27,86,131
+Compact Dock 265,Accessories,21,40,151,236
+Ergonomic Router 239,Office Supplies,195,27,571,1046
+High-Performance Mouse 777,Furniture,17,12,879,1599
+Smart Drive 546,Networking,26,25,406,507
+Pro Router 320,Accessories,161,39,25,40
+Pro Chair 268,Electronics,136,32,495,954
+High-Performance Laptop 631,Networking,187,24,304,387
+Pro Desk 198,Electronics,37,50,416,709
+Pro Laptop 355,Electronics,103,15,288,532
+High-Performance Mouse 235,Accessories,175,50,236,469
+Ergonomic Chair 788,Accessories,191,40,70,122
+Wireless Keyboard 747,Office Supplies,87,47,968,1559
+Ergonomic Laptop 718,Accessories,4,37,620,1021
+Ultra Monitor 700,Storage,129,50,401,726
+Ergonomic Laptop 262,Accessories,155,26,942,1632
+Smart Keyboard 729,Office Supplies,158,43,455,720
+Compact Router 434,Accessories,124,42,775,1543
+Max Keyboard 553,Office Supplies,41,14,810,1545
+Wireless Drive 868,Storage,145,45,727,1269
+Compact Chair 807,Office Supplies,182,32,206,292
+Ergonomic Drive 414,Networking,3,22,974,1691
+Ultra Mouse 831,Accessories,174,31,431,534
+Wireless Mouse 607,Storage,31,22,282,542
+High-Performance Headset 232,Electronics,153,16,441,811
+Max Drive 822,Accessories,111,37,45,89
+Ergonomic Router 781,Office Supplies,71,15,495,941
+High-Performance Drive 845,Office Supplies,170,39,513,969
+Smart Dock 561,Furniture,120,28,69,120
+Ergonomic Laptop 317,Storage,162,16,300,450
+Wireless Dock 749,Networking,188,49,468,571
+Max Router 861,Electronics,16,21,930,1495
+Ergonomic Laptop 393,Storage,41,10,433,618
+Wireless Monitor 401,Furniture,34,13,831,1113
